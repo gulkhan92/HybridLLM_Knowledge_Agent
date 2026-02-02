@@ -1,0 +1,61 @@
+Anatomy of the Somatosensory System
+
+FROM WIKIBOOKS!
+
+Our somatosensory system consists of sensors in the skin
+and sensors in our muscles, tendons, and joints. The re-
+ceptors in the skin, the so called cutaneous receptors, tell
+us about temperature (thermoreceptors), pressure and sur-
+face texture (mechano receptors), and pain (nociceptors).
+The receptors in muscles and joints provide information
+about muscle length, muscle tension, and joint angles.
+
+Cutaneous receptors
+
+Sensory information from Meissner corpuscles and rapidly
+adapting afferents leads to adjustment of grip force when
+objects are lifted. These afferents respond with a brief
+burst of action potentials when objects move a small dis-
+tance during the early stages of lifting. In response to
+
+Hairy skin ———>
+
+Glabrous skin «——,
+
+Epidermis
+Free nerve
+— ending
+
+Meissner's
+corpuscle
+
+Dermis
+
+Hair receptor ele
+
+w
+
+Pacinian
+corpuscle
+
+This is asample document to
+showcase page-based formatting. It
+contains a chapter from a Wikibook
+called Sensory Systems. None of the
+content has been changed in this
+article, but some content has been
+removed.
+
+Figure 1: Receptors in the hu-
+man skin: Mechanoreceptors can
+be free receptors or encapsulated.
+Examples for free receptors are
+the hair receptors at the roots of
+hairs. Encapsulated receptors are
+the Pacinian corpuscles and the
+receptors in the glabrous (hair-
+less) skin: Meissner corpuscles,
+Ruffini corpuscles and Merkel’s
+disks.
+
+‘The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.

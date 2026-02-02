@@ -1,0 +1,67 @@
+From Wikibooks
+
+Force
+control
+signal
+
+Driving
+signal
+
+Length (secondary muscle-spindel afferents)
+Length error (primary muscle-spindel afferents)
+Velocity (primary muscle-spindel afferents)
+
+Length
+control
+signal
+
+neurons
+
+Force (Golgi tendon organ)
+Force feedback
+
+External
+forces
+
+Muscle
+length
+
+Tendon Muscle force
+
+organs
+
+Length &
+velocity
+feedback
+
+Spindles
+
+Gamma bias
+
+Figure 3: Feedback loops for proprioceptive signals for the perception and control of limb move-
+ments. Arrows indicate excitatory connections; filled circles inhibitory connections.
+
+For more examples of how to use
+HTML and CSS for paper-based
+publishing, see css4.pub.
+
+few myofilaments and is non-contractile, but it does have
+one or more sensory endings applied to it. When the mus-
+cle is stretched, the central part of the intrafusal fiber is
+stretched and each sensory ending fires impulses.
+
+Muscle spindles also receive a motor innervation. The
+large motor neurons that supply extrafusal muscle fibers
+are called alpha motor neurons, while the smaller ones sup-
+plying the contractile portions of intrafusal fibers are
+called gamma neurons. Gamma motor neurons can regu-
+late the sensitivity of the muscle spindle so that this sen-
+sitivity can be maintained at any given muscle length.
+
+Joint receptors
+
+The joint receptors are low-threshold mechanoreceptors
+and have been divided into four groups. They signal differ-
+ent characteristics of joint function (position, movements,
+direction and speed of movements). The free receptors or
+type 4 joint receptors are nociceptors.
