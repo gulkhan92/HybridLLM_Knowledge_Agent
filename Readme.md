@@ -81,7 +81,7 @@ From a system design perspective, `main.py` enforces **separation of concerns** 
 
 The system follows a **workflow-oriented architecture**, starting from user interaction and flowing through ingestion, retrieval, validation, and response generation.
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Architecture.png)
 
 ### Core Components
 
