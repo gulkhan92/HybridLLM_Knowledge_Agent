@@ -37,7 +37,7 @@ st.markdown("""
        SIDEBAR STYLING 
        ------------------- */
     section[data-testid="stSidebar"] {
-        background-color: #1e293b; /* Navy Slate */
+        background-color: #2f2f52; /* Navy Slate */
         color: #f1f5f9;
     }
     
@@ -75,11 +75,12 @@ st.markdown("""
     [data-testid="stSidebar"] [data-testid="stFileUploader"] div,
     [data-testid="stSidebar"] [data-testid="stFileUploader"] small, 
     [data-testid="stSidebar"] [data-testid="stFileUploader"] span {
-        color: #000000 !important;
+        color: #1e3a8a !important;
         font-weight: 700 !important;
+    
     }
     [data-testid="stSidebar"] [data-testid="stFileUploader"] button {
-        color: #000000 !important; 
+        color: #1e3a8a !important; 
         border-color: #000000 !important;
     }
 
@@ -175,18 +176,20 @@ with st.sidebar:
     if st.button("🚀 Run Full Ingestion Pipeline"):
         st.markdown("---")
         with st.spinner("Running pipeline..."):
-            st.text("Processing Documents...")
+            st.write("Processing Documents...")
             chunks = chunk_all_pdfs(method=chunk_method)
-            st.text(f"✅ Chunks: {len(chunks)}")
+            st.write(f"✅ Chunks: {len(chunks)}")
 
-            st.text("Updating Vector Index...")
+            st.write("Updating Vector Index...")
             index, metadata = build_faiss_from_ocr()
             
-            st.text("Building Graph...")
+            st.write("Building Graph...")
             build_graph(chunks)
             enrich_graph_with_entities()
+            st.write("✅ Entities extracted and graph enriched")
+
             
-            st.success("Ingestion pipeline completed!")
+            st.write("Ingestion pipeline completed!")
     
     # Description below button
     st.caption("Re-processes all PDFs and update the Graph & Vector stores.")
