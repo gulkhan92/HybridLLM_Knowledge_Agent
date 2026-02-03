@@ -36,7 +36,7 @@ CHUNKING_METHODS = [
 LOGGING_ENABLED = True
 
 # LLM Configs 
-GROK_API_KEY="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"
+GROK_API_KEY="GROQ_API_KEY"
 
 # Top K chunks retrieval
 TOP_K =5
