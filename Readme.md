@@ -1,5 +1,10 @@
 # HybridLLM_Knowledge_Agent
-Hybrid Knowledge Retrieval System (Vector + Knowledge Graph)
+Hybrid Knowledge Retrieval System (Vector Search + Knowledge Graph)
+
+## 📄 Project Report
+You can view the full project report here: [Download Project Report PDF](./docs/Project_Report.pdf)
+
+[![ Watch the Demo](https://drive.google.com/file/d/1QCsTHeGe1-r35w1VfBUr9gvkuN36mDRU/view?usp=sharing)
 
 ## Overview
 
@@ -75,6 +80,8 @@ From a system design perspective, `main.py` enforces **separation of concerns** 
 ## High-Level Architecture
 
 The system follows a **workflow-oriented architecture**, starting from user interaction and flowing through ingestion, retrieval, validation, and response generation.
+
+![Architecture Diagram](architecture.png)
 
 ### Core Components
 
